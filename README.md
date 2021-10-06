@@ -1,13 +1,15 @@
 # ChromeBookmarkTabGroups
 Bookmark and restore Chrome's tab groups
 
-A Chrome extension which adds to the context menue in tabs the following:
-* Save all tabs of the current group in the "Saved Groups" folder in the "bookmarks Bar"
-* Restore the group in the tab (Chrome added this option too lately)
-* Copy to the bookmarked folder's content (title and url) to the clipboard
+A Chrome extension which adds to the context menu of tabs the following:
+* Save all tabs of the current group in the "Saved Groups" folder in the "Bookmarks bar"
+* Restore a saved group
+* Copy the bookmarked folder's content (title and url) to the clipboard
 
-Some additional points:
-* The "Saved Groups" folder can be edited manually
-* No duplicate group name support - url's from identical groups, will be added to the same bookmarke folder.
+Some points:
+* The "Saved Groups" folder can be edited manually (add/remove folders) with Chrome's UI
+* No duplicate group name support, and the URL's from will be added to the same bookmark folder
+* Existing URL's, aren't saved again in the bookmark folder
+* Group colors aren't saved
 
-The extentsion icon is taken from http://www.iconbeast.com
+The extension icon is taken from http://www.iconbeast.com

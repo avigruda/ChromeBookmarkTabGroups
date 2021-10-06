@@ -1,0 +1,25 @@
+{
+    "name": "Bookmark Groups",
+    "description": "Save group tabs as bookmarks",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "background": {
+        "service_worker": "main.js"
+    },
+    "permissions": [
+        "scripting",
+        "contextMenus",
+        "tabs",
+        "tabGroups",
+        "bookmarks",
+        "clipboardWrite"
+    ],
+    "host_permissions": [
+        "*://*/*"
+    ],
+    "icons": {
+        "16": "/images/16.png",
+        "32": "/images/32.png",
+        "64": "/images/64.png"
+    }
+}
