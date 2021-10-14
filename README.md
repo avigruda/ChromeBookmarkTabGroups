@@ -13,3 +13,5 @@ Some points:
 * Group colors aren't saved
 
 The extension icon is taken from http://www.iconbeast.com
+
+Chrome's webstore link for the extension is https://chrome.google.com/webstore/detail/bookmark-groups/gfaojaacbhaapmmcmgbblhaghhgdnccp
